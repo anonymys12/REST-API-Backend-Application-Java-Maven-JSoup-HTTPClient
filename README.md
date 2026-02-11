@@ -1,2 +1,12 @@
-# REST-API-Backend-Application-Java-Maven-JSoup-HTTPClient
-Parsed and processed structured data from AutoRia for further analysis  Implemented data filtering, validation, and storage in a structured format  Built a robust backend service handling multiple data sources efficiently
+## REST API Backend Application
+**Technologies:** Java, Maven, JSoup, HTTPClient
+
+**Description:**  
+Backend application for parsing and processing structured data from AutoRia.
+
+**Features:**
+- Parse and process structured data from AutoRia
+- Filter, validate, and store data
+- Handle HTTP requests using HTTPClient
+
+---
