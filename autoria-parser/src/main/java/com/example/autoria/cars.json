@@ -1,0 +1,6 @@
+[
+  {"brand":"Peugeot","model":"406","year":2002,"priceUsd":2500,"region":"Kyiv"},
+  {"brand":"Peugeot","model":"406","year":2001,"priceUsd":2200,"region":"Lviv"},
+  {"brand":"Toyota","model":"Corolla","year":2005,"priceUsd":3000,"region":"Odessa"},
+  {"brand":"Peugeot","model":"406","year":2000,"priceUsd":2000,"region":"Dnipro"}
+]
